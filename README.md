@@ -58,8 +58,6 @@ Input Region:
 Max Pooling Output:
 8
 
-# 🧠 Task 6 — CNN Concept Explanation (Continued)
-
 ---
 
 # 📌 Why is ReLU Commonly Used in CNNs?
