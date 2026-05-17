@@ -50,7 +50,7 @@ Pooling allows the model to recognize a feature (like a scratch) even if it is s
 Max Pooling selects the **maximum value** from a small region, keeping only the strongest detected signal.
 
 **Example:**
-```text
+
 Input Region:
 [1, 5]
 [2, 8]
