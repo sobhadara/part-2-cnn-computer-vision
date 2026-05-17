@@ -1,0 +1,84 @@
+# ==============================================================================
+# REQUIREMENTS FILE
+# Applied Neural Networks, Computer Vision, NLP, and AI Solution Design
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# CORE DATA PROCESSING & NUMERICAL COMPUTING
+# ------------------------------------------------------------------------------
+# Used for:
+# - dataset loading
+# - tabular data manipulation
+# - numerical operations
+# - preprocessing workflows
+pandas>=2.0.3
+numpy>=1.24.0
+
+# ------------------------------------------------------------------------------
+# DEEP LEARNING FRAMEWORK (CORE ENGINE)
+# ------------------------------------------------------------------------------
+# TensorFlow provides:
+# - Keras Sequential API
+# - Feed-Forward Neural Networks
+# - CNN layer support
+# - training and backpropagation engine
+# - model compilation and evaluation
+#
+# Compatible with modern Keras architecture.
+tensorflow>=2.16.1
+
+# ------------------------------------------------------------------------------
+# MACHINE LEARNING UTILITIES & DATA PREPROCESSING
+# ------------------------------------------------------------------------------
+# Used for:
+# - train-test splitting
+# - feature scaling
+# - preprocessing utilities
+# - evaluation metrics
+# - confusion matrix generation
+scikit-learn>=1.3.0
+
+# ------------------------------------------------------------------------------
+# DATA VISUALIZATION & DIAGNOSTIC PLOTTING
+# ------------------------------------------------------------------------------
+# Used for:
+# - plotting graphs
+# - training history visualization
+# - evaluation charts
+# - confusion matrix visualization
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# ------------------------------------------------------------------------------
+# COMPUTER VISION & IMAGE PROCESSING
+# ------------------------------------------------------------------------------
+# OpenCV is used for:
+# - image loading
+# - pixel-level processing
+# - color space conversion
+# - image manipulation operations
+opencv-python>=4.8.0
+
+# ------------------------------------------------------------------------------
+# IMAGE HANDLING & INSPECTION
+# ------------------------------------------------------------------------------
+# Pillow (PIL) is used for:
+# - image inspection
+# - resolution analysis
+# - image metadata handling
+# - basic image operations
+Pillow>=9.4.0
+
+# ------------------------------------------------------------------------------
+# OPTIONAL NOTE
+# ------------------------------------------------------------------------------
+# Install all project dependencies using:
+#
+# pip install -r requirements.txt
+#
+# This ensures:
+# - reproducible environments
+# - dependency consistency
+# - smooth notebook execution
+# - compatibility across systems
+# ------------------------------------------------------------------------------
